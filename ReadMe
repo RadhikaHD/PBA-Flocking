@@ -1,0 +1,19 @@
+Name of the student: Radhika Dhaipule
+Name of the course:
+CPSC 8170 Physically Based Animation
+Name of the professor: Dr. Donald House
+
+Homework Assignment 3: Flocking and Interacting Particle Systems
+
+Description:
+Use keyboard keys W,A,S,D,Q and E to control the camera.
+Use keyboard keys R,G,B and O to change the color of the particles.
+Note: Since I hadn't implemented collision detection in the previous project I have it in this one with a cube of length 1.
+
+Compilation:
+Run using Xcode. Project file is included.
+
+
+
+
+
